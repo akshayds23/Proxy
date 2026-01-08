@@ -1,0 +1,13 @@
+{
+  "name": "drive-proxy",
+  "version": "1.0.0",
+  "description": "Simple proxy that resolves Google Drive export links and streams the actual video download to the client.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=16"
+  }
+}
